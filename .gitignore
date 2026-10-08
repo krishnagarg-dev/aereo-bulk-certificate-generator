@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+*.db
+generated_certificates/*.pdf
+test_generated_certificates/
+source.zip
+.DS_Store
